@@ -42,7 +42,7 @@ Feel free to report <b>[issues](https://github.com/Abhijeetbyte/Python-Virtual-a
 
 ## License
 
-Copyright © Abhijeet kumar. All rights reserved.
+Copyright © Tushar chopra. All rights reserved.
 
 Licensed under the [MIT License.](LICENSE)
 
